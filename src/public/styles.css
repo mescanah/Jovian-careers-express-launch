@@ -1,0 +1,70 @@
+
+h1{text-align: center;}
+.written-image{ height: 250px; width: 100%; padding:0px; 
+              
+}
+
+.intro-about{ font-size: 30px; font-family: sans-serif ; 
+ ; text-align: center; 
+}
+
+.intro-text{font-size: 15px; font-family: sans-serif; width:40%;
+  display:inline-block; vertical-align: top;
+}
+
+.intro-image{ width: 40%; display:inline-block; }
+
+.industry{ font-size: 18px; font-family:sans-serif;
+          
+  }
+
+.bootcamps{ font-size: 18px; font-family:sans-serif;
+            text-decoration:none; 
+}
+h2{text-align: center;}
+
+#jobs{ 
+ border-radius:5px;margin: 0 auto; padding: 0 8px;
+ 
+}
+
+.jobs-table{ width: 100%;border: solid 1px lightblue;border-collapse: collapse;
+   
+}
+.jobs-header-row th{border:solid 1px gray; padding:8px;
+       background-color: aliceblue; text-align: left;
+}
+
+.jobs-header-row td{border:solid 1px gray; padding:8px;}
+
+.jobs-table tr:nth-child(odd){background-color:lightskyblue
+  ;}
+
+  .form-group{ margin: 8px;}    
+    
+  #application{ max-width:800px; margin: 0 auto padding;}
+
+  #application-form label { margin: 0 auto padding;
+               font-weight: 600;
+  }
+
+  #application-form input,select,textarea {   padding:4px; font-size:18px;
+    margin-top:4px; border-radius: 5px; border: solid 1px gray;
+}
+
+.form-group textarea{ width: 80%; font-family:Arial;}
+
+.form-group input[type="checkbox"]{width:16px; height:16px;}
+
+.form-group input[type="submit"]{ background-color: lightblue;
+    font-weight:500; cursor: pointer;
+} 
+
+.footer{
+         background: lightblue;text-align:center;
+} 
+
+.footer-link{list-style: none; display:inline-block; text-align:center; height:80px; margin: 10px;
+            font-size: 20;
+}
+.copyright{text-align: center; background-color: lightblue; font-size:30; margin:0px; padding:0px;}
